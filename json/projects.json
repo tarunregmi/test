@@ -1,0 +1,44 @@
+[
+	{
+		"title": "share.lc",
+		"description": "Web app that allows sharing any type of file through a local network (WiFi, hotspot, etc). Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet ullam eligendi quaerat, amet qui neque molestias voluptate! Optio reprehenderit neque nesciunt non accusamus suscipit perferendis. Libero repellendus rerum odio tempora.",
+		"thumbnail": "/assets/img/thumb-share.lc.png",
+		"code": "https://github.com/tarunregmi/share.lc",
+		"preview": ""
+	},
+	{
+		"title": "lagani",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos quaerat commodi dolorem blanditiis tempora corrupti iste facere impedit omnis. Iusto dolores provident fugiat hic eveniet. At hic deleniti sit ducimus reprehenderit temporibus nihil veritatis. Labore vero cumque minus molestias voluptate reprehenderit, minima sapiente delectus sed at dolores ullam ab nobis.",
+		"thumbnail": "/assets/img/thumb-lagani.png",
+		"code": "https://github.com/tarunregmi/lagani",
+		"preview": ""
+	},
+	{
+		"title": "Password Generator",
+		"description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci laborum nam odio ut esse, earum est similique qui, a modi illo quasi ducimus exercitationem, voluptate cupiditate ipsa iusto quis laudantium officiis vitae. Fuga perspiciatis tenetur nihil corrupti repudiandae deserunt veritatis sapiente voluptatem, reprehenderit omnis nobis? Voluptas, dolorum quo! Explicabo, soluta.",
+		"thumbnail": "/assets/img/thumb-rpg.png",
+		"code": "https://github.com/tarunregmi.github.io",
+		"preview": "https://youtu.be/qerEMQBsXQQ"
+	},
+	{
+		"title": "Base64 Image Encoder",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus itaque fugiat assumenda reiciendis, reprehenderit delectus facilis neque qui officiis illo, ipsam quibusdam suscipit optio ratione repellat odit quis corporis eligendi autem, quia nulla inventore voluptates.",
+		"thumbnail": "/assets/img/thumb-bie.png",
+		"code": "",
+		"preview": ""
+	},
+	{
+		"title": "Stopwatch (CSS Only)",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In et harum distinctio tempora, dicta iusto, ratione necessitatibus laborum dolor fuga sint debitis soluta libero explicabo! Placeat quaerat provident rerum dignissimos, hic sed deleniti, reiciendis distinctio quibusdam numquam tempora minus culpa?",
+		"thumbnail": "/assets/img/thumb-csw.png",
+		"code": "https://github.com/tarunregmi.github.io",
+		"preview": "https://tarunregmi.github.io"
+	},
+	{
+		"title": "Title",
+		"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore quidem illum voluptates exercitationem repellat modi doloremque. Iusto suscipit provident laborum labore non maxime quia distinctio eligendi laudantium eum sunt recusandae quos vel dolor, dolores tenetur sint excepturi fugit repellendus nulla vero, voluptatum, officiis aspernatur. Quibusdam optio nulla fugit accusamus? Quidem.",
+		"thumbnail": "/assets/img/thumb.png",
+		"code": "https://github.com/tarunregmi.github.io",
+		"preview": "https://tarunregmi.github.io"
+	}
+]
